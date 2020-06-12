@@ -1,3 +1,6 @@
+# DEPRECATED
+This sample can be used to understand the basics of Equinix Cloud Exchange Fabric. However this is no longer updated or supported.
+
 Development Guidelines
 
 #	Prerequisites to use Sample code
